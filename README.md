@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native, CSS and JavaScript**
 
-- 💬 Ask me about **Everthing !!!**
+- 💬 Ask me about **Anything !!!**
 
 - 📫 How to reach me **kimettahri8@gmail.com**
 
