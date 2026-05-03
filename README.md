@@ -76,11 +76,11 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugekimm&show_icons=true&locale=en&layout=compact" alt="hugekimm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugekimm&show_icons=true&locale=en&layout=compact"  /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugekimm&show_icons=true&locale=en" alt="hugekimm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugekimm&show_icons=true&locale=en"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugekimm&" alt="hugekimm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugekimm&"  /></p>
 
 
 
