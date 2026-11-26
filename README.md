@@ -1,24 +1,85 @@
-[0;37m       .,;kwg@M%%%%%@N%Nw,,..        [1;37mton_pseudo@github [0;90m--------------------------------------------------[0m
-[0;37m    ,;g@M*|`||*%gNM=]mM%g||%Ng;,     [0;37m. [0;33mOS: [0;90m................................. [0;34mWindows 11, Ubuntu 24.04, Linux[0m   
-[0;37m ,@@L `    ,,      ```!`|j%M]%M@@,  [0;37m. [0;33mHost: [0;90m.......................................... [0;34mTon Entreprise / École[0m
-[0;37m ]@j`` .,wp@pw,    `.   ````|%Wg@]  [0;37m. [0;33mKernel: [0;90m.................... [0;34mFull-Stack Developer & Open-Source Dev[0m
-[0;37m /{|||]@@@@@@@@@pp.          |||||  [0;37m. [0;33mIDE: [0;90m........................................ [0;34mNeovim v0.10, VSCode 1.97[0m
-[0;37m  `` `]@@@@@@@@@@@@@p     , ,``` `  [0m
-[0;37m  , :]%@@@@@@@@%%%%k%h '*||mkr   *  [0;37m- [0;33mLanguages & Tools [0;90m--------------------------------------------------[0m
-[0;37m  '  j%M`     |jkk'  ~nrn=|i    ;`  [0;37m. [0;33mLanguages.Programming: [0;90m......... [0;34mTypeScript, Python, Rust, Go, C++[0m
-[0;37m  !  jrr*^`          ``"!  L'':!    [0;37m. [0;33mLanguages.Computer: [0;90m............... [0;34mHTML, CSS, SQL, Docker, YAML[0m
-[0;37m   j  lp;,.  ,/ @@    ,;\nmy "  ,~  [0;37m. [0;33mLanguages.Real: [0;90m....................... [0;34mFrançais (Natif), Anglais[0m
-[0;37m  i r @@@@mmHM @@@@ `^****M*,p ;,   [0m
-[0;37m  | ]@@@HHH]g@M%%%%%H,jmgpmb%  j    [0;37m- [0;33mHobbies [0;90m------------------------------------------------------------[0m
-[0;37m  ;;%%%%k%@[,.n|;.;j%%k|%k%%',[     [0;37m. [0;33mHobbies.Software: [0;90m............ [0;34mOpen-Source, Linux Ricing, IA Locale[0m
-[0;37m   H|%%k%%j%k||,;;j;!!'|%ij}]@      [0;37m. [0;33mHobbies.Hardware: [0;90m.............. [0;34mClaviers Custom, Homelab, Arduino[0m
-[0;37m   "djjmkL,"]][,,,,wwxw;|#kjk`      [0m
-[0;37m    %;%km%%%%M%M|%%jkkii|||[        [0;37m- [0;33mContact [0;90m------------------------------------------------------------[0m
-[0;37m     kjj%%kkkl|!||||||j|||"         [0;37m. [0;33mEmail.Personal: [0;90m........................... [kimettahri8@gmail.com[0m
-[0;37m       @p|j%%%jkk|||j*``;j[         [0;37m. [0;33mLinkedIn: [0;90m............................................ [0;34mTonProfil[0m
-[0;37m       ]@@@g|````` ` ,;j%k          [0;37m. [0;33mDiscord: [0;90m............................................ [0;34mton_pseudo[0m
-[0;37m       @@@@@mgmp;,,,,:;jj%%k%       [0m
-[0;37m      @@@@@@@@%%kgki!|jjjj%k%@ .    [0;37m- [0;33mGitHub Stats [0;90m-------------------------------------------------------[0m
-[0;37m . ^['' %@@@HH%b%k{illljkjj%%%% ;`,.[0;37m. [0;33mRepos: [0;90m... [0;34m42 [0;37m{[0;33mContributed: [0;34m18[0;37m} | [0;33mStars: [0;90m...................... [0;34m128[0m
-[0;37m=[' ` . %HH%%%%H@gkilljjj%kk%". ``i [0;37m. [0;33mCommits: [0;90m.................... [0;34m1,450 [0;37m| [0;33mFollowers: [0;90m.................. [0;34m84[0m
-[0;37m                                    [0;37m. [0;33mLines of Code on GitHub: [0;90m. [0;34m185,320 [0;37m( [1;32m210,400++[0;37m, [1;31m25,080-- [0;37m)[0m
+![Black Gold Minimalist Elegant Business LinkedIn Banner](https://github.com/user-attachments/assets/e77a7e45-79f6-4272-b3ba-400479b59375)
+
+<h1 align="center">Hi 👋, I'm Hakim</h1>
+<h3 align="center">I am an independent frontend developer from France</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugekimm&label=Profile%20views&color=0e75b6&style=flat" alt="hugekimm" /> </p>
+
+
+- 🔭 I’m currently working on **frontend developer,UI/UX designer**
+
+- 🌱 I’m currently learning **React Native, CSS and JavaScript**
+
+- 💬 Ask me about **Anything !!!**
+
+- 📫 How to reach me **kimettahri8@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hakim-ettahri-416914284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hakim-ettahri-416914284/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" style="margin:5px;" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" style="margin:5px;" />
+  </a>
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugekimm&show_icons=true&locale=en&layout=compact" alt="hugekimm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugekimm&show_icons=true&locale=en" alt="hugekimm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugekimm&" alt="hugekimm" /></p>
+
+
